@@ -14,7 +14,7 @@ clone id- ``https://github.com/RgTheGreat/mil_term-0.0.1.git``
  ``
  from mil_term.mil_term import mil_term
  ``
- Then run the file!
+ Then run the file, in cmd!
  
  # Commands
  Following are the commands to mil_term
