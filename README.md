@@ -7,10 +7,12 @@ mil_term is a terminal(not really) which only has two to three commands
 # Syntax and Usage
 - ``First Install it``
 - ``Create a new file anywhere``
-- ``Type the following code:``
+- ``Type the following code into the file:``
  ``
  from mil_term.mil_term import mil_term
  ``
+ Then run the file!
+ 
  # Commands
  Following are the commands to mil_term
 
