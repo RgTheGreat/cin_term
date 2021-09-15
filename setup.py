@@ -1,10 +1,10 @@
 from setuptools import setup
 
 
-__project__ = "mil_term"
+__project__ = "cin_term"
 __version__ = "0.0.2"
-__description__ = "In this version of mil_term, you can do many things, check the commands and syntax in github.com/RgTheGreat/mil_term"
-__packages__ = ["mil_term"]
+__description__ = "cin_term is a terminal(only two to three commands) used for listing files and showing directory"
+__packages__ = ["cin_term"]
 __author__ = "Rigved Aneesh"
 __author_email__ = "rigved.bob@gmail.com"
 __classifiers__ = [
@@ -12,8 +12,8 @@ __classifiers__ = [
     "Intended Audience :: Education",
     "Programming Language :: Python :: 3",
 ]
-__keywords__ = ["mil_term", "terminal"]
-__scripts__ = ["bin/mil_term"]
+__keywords__ = ["cin_term", "terminal"]
+__scripts__ = ["bin/cin_term"]
 setup(
     name = __project__,
     version = __version__,
