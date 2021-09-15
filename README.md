@@ -1,5 +1,5 @@
-# mil_term-0.0.1
-mil_term is a terminal(not really) which only has two to three commands
+# cin_term-0.0.1
+cin_term is a terminal(not really) which only has two to three commands
 
 # Installation
 ``pip install mil-term==0.0.1``
@@ -12,8 +12,8 @@ clone id- ``https://github.com/RgTheGreat/mil_term-0.0.1.git``
 - ``Create a new file anywhere``
 - ``Type the following code into the file:``
  ``
- from mil_term.mil_term import mil_term
- ``
+from cin_term.cin_term import cin_term
+``
  Then run the file, in cmd!
  
  # Commands
