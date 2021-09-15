@@ -1,2 +1,2 @@
-import mil_term
+import mil_term2
 
