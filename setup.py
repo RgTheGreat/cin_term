@@ -2,8 +2,8 @@ from setuptools import setup
 
 
 __project__ = "mil_term"
-__version__ = "0.0.1"
-__description__ = "mil_term is a terminal(only two to three commands) used for listing files and showing directory"
+__version__ = "0.0.2"
+__description__ = "In this version of mil_term, you can do many things, check the commands and syntax in github.com/RgTheGreat/mil_term"
 __packages__ = ["mil_term"]
 __author__ = "Rigved Aneesh"
 __author_email__ = "rigved.bob@gmail.com"
